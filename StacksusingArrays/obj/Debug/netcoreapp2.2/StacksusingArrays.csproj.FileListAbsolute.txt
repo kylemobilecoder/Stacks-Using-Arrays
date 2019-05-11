@@ -1,0 +1,11 @@
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/bin/Debug/netcoreapp2.2/StacksusingArrays.deps.json
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/bin/Debug/netcoreapp2.2/StacksusingArrays.runtimeconfig.json
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/bin/Debug/netcoreapp2.2/StacksusingArrays.runtimeconfig.dev.json
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/bin/Debug/netcoreapp2.2/StacksusingArrays.dll
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/bin/Debug/netcoreapp2.2/StacksusingArrays.pdb
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/obj/Debug/netcoreapp2.2/StacksusingArrays.csprojAssemblyReference.cache
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/obj/Debug/netcoreapp2.2/StacksusingArrays.csproj.CoreCompileInputs.cache
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/obj/Debug/netcoreapp2.2/StacksusingArrays.AssemblyInfoInputs.cache
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/obj/Debug/netcoreapp2.2/StacksusingArrays.AssemblyInfo.cs
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/obj/Debug/netcoreapp2.2/StacksusingArrays.dll
+/Users/katrinacoloso/Projects/StacksusingArrays/StacksusingArrays/obj/Debug/netcoreapp2.2/StacksusingArrays.pdb

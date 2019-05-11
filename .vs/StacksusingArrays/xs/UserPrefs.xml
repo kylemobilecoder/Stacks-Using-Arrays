@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FCAF47A9-A589-4087-9B51-D15357FF0F52}|Default">
+  <MonoDevelop.Ide.ItemProperties.StacksusingArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StacksusingArrays/Program.cs">
+    <Files>
+      <File FileName="StacksusingArrays/Program.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
